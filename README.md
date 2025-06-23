@@ -74,7 +74,7 @@ Your mentorship and insights into BI dashboarding and data modeling played a cru
 
 - **👨‍💻 GitHub:** [divyanshpatel128](https://github.com/divyanshpatel128)
 - **💼 LinkedIn:** [Divyansh Patel](https://www.linkedin.com/in/divyansh-patel-dataanalyst/)
-- **📬 Portfolio:** *Add if available*
+
 
 ---
 
