@@ -3,6 +3,9 @@
 This project is a **dynamic and interactive Sales Dashboard** built using **Microsoft Excel**, leveraging advanced tools like **Power Pivot** and **Data Modeling** to deliver deep business insights from the popular **Adventure Works dataset**.
 
 ---
+![Screenshot 2025-06-23 141817](https://github.com/user-attachments/assets/1219769b-660b-4d5b-b699-83a2de146b49)
+
+
 
 ## 🚀 Project Overview
 
