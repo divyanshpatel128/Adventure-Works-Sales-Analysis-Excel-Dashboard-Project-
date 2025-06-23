@@ -76,11 +76,4 @@ Your mentorship and insights into BI dashboarding and data modeling played a cru
 - **💼 LinkedIn:** [Divyansh Patel](https://www.linkedin.com/in/divyansh-patel-dataanalyst/)
 
 
----
-
-## 📌 Keywords / Tags
-
-`#ExcelDashboard` `#PowerPivot` `#AdvancedExcel` `#SalesAnalysis` `#BusinessIntelligence` `#DataAnalytics` `#DashboardDesign` `#AdventureWorks` `#DataModeling`
-
----
 
