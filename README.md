@@ -57,7 +57,7 @@ This dashboard is ideal for:
 ## 🙏 Acknowledgements
 
 **Special Thanks to:**  
-[Zain Ul Hassan](https://www.linkedin.com/in/zainulhassan/) – *Senior BI Engineer @Alibaba Group*  
+[Zain Ul Hassan](https://www.linkedin.com/in/zain-ul-hassan-/) – *Senior BI Engineer @Alibaba Group*  
 Your mentorship and insights into BI dashboarding and data modeling played a crucial role in this project.
 
 ---
