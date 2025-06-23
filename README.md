@@ -38,9 +38,9 @@ The goal of this project is to provide **executive-level sales insights** throug
 
 ## 📁 Files Included
 
-- `AdventureWorks_SalesDashboard.xlsx` – Main interactive dashboard file
 - `AdventureWorks_Dataset.xlsx` – Cleaned dataset used for modeling
-- `README.md` – Project documentation (this file)
+- https://github.com/divyanshpatel128/Adventure-Works-Sales-Analysis-Excel-Dashboard-Project-/blob/main/Adventure%20work%20Excel%20Dashboard.zip
+
 
 ---
 
